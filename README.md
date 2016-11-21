@@ -22,6 +22,8 @@ You'll be editing `index.js` and running tests as usual.
 Remember, you can run the tests using `mocha.run()` in the browser if you'd
 like — then read the results, refresh the page, and keep going afterwards.
 
+>Note: If you're using the Learn IDE, you'll need to use `httpserver` to open the `index.html` file. That command will give you an IP address (something like `123.456.78.90`) that you can type into your web browser to access the page!
+
 ## Resources
 
 - [forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
