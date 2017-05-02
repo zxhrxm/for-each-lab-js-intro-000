@@ -15,7 +15,14 @@ You'll be editing `index.js` and running tests as usual.
 
 Remember, you can run the tests using `mocha.run()` in the browser if you'd like — then read the results, refresh the page, and keep going afterwards.
 
->Note: If you're using the Learn IDE, you'll need to use `httpserver` to open the `index.html` file. That command will give you an IP address (something like `123.456.78.90`) that you can type into your web browser to access the page!
+You can run the tests using `mocha.run()` in the browser if you'd like — then read the results, refresh the page, and keep going afterwards.
+
+>Note: If you're using the Learn IDE, this is how to use mocha.run():
+1.	Type "httpserver" into your learn IDE console.  
+2.	Type the ip it gives you into your browser.  (The ip will look something like this: 158.38.11.256:30615)
+3.	Go to your browser's console and type mocha.run() and press <ENTER>.
+4.	Any errors from your code will now appear in your browser on the tab in which you typed your ip in step 2.
+5.	Debug, editing your work in index.js, saving it, and repeating steps 3-5 until all tests pass.
 
 ## Resources
 
