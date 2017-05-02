@@ -36,5 +36,3 @@ You can run the tests using `mocha.run()` in the browser if you'd like — then 
 - [forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/for-each-lab'>forEach() Lab</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/for-each-lab'>forEach() Lab</a> on Learn.co and start learning to code for free.</p>
