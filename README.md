@@ -15,8 +15,6 @@ You'll be editing `index.js` and running tests as usual.
 
 Remember, you can run the tests using `mocha.run()` in the browser if you'd like — then read the results, refresh the page, and keep going afterwards.
 
-You can run the tests using `mocha.run()` in the browser if you'd like — then read the results, refresh the page, and keep going afterwards.
-
 >Note: If you're using the Learn IDE, this is how to use mocha.run():
 1.	Type "httpserver" into your learn IDE console.  
 2.	Type the ip it gives you into your browser.  (The ip will look something like this: 158.38.11.256:30615)
@@ -27,5 +25,7 @@ You can run the tests using `mocha.run()` in the browser if you'd like — then 
 ## Resources
 
 - [forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/for-each-lab'>forEach() Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/for-each-lab'>forEach() Lab</a> on Learn.co and start learning to code for free.</p>
